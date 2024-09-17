@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import '../styles/globals.css';
+import '../app/styles/globals.css';
 
 function MyApp({ Component, pageProps }) {
   return (
