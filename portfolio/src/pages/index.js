@@ -15,7 +15,7 @@ export default function Home() {
             Hi, I'm Nathasha
           </h1>
           <p className="mt-4 text-lg">
-            Welcome to my portfolio! I’m a passionate web developer.
+          Hi, I'm Nathasha, a passionate developer with experience in building websites and machine learning models. I love exploring new technologies and creating projects that make an impact.
           </p>
         </motion.div>
       </main>
