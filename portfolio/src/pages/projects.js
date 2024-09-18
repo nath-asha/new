@@ -23,3 +23,13 @@ export default function Projects() {
     </div>
   );
 }
+// index.js
+// │   │   ├── about.js
+// │   │   ├── projects.js
+// │   │   ├── experience.js
+// │   │   ├── contact.js
+// _app.js                # Custom App component with page transitions
+// │   │   ├── index.js               # Home page with art-profile book animation
+// │   │   ├── about.js               # About page
+// │   │   ├── projects.js            # Projects page with Framer Motion cards
+// │   │   ├── contact.js  
